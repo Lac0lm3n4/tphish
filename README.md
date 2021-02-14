@@ -5,7 +5,7 @@ ademas cuenta con un enmascarador de tu enlace phishing para que no se vea ngrok
 
 # INSTALACIÓN
 
-git clone 
+git clone https://github.com/Lac0lm3n4/tphish.git
 
 luego entramos a la carpeta con
 
